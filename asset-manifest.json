@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/student-api-filterlist/static/css/main.4b86bdf1.css",
+    "main.js": "/student-api-filterlist/static/js/main.eed6c64e.js",
+    "static/js/787.e9c0d292.chunk.js": "/student-api-filterlist/static/js/787.e9c0d292.chunk.js",
+    "index.html": "/student-api-filterlist/index.html",
+    "main.4b86bdf1.css.map": "/student-api-filterlist/static/css/main.4b86bdf1.css.map",
+    "main.eed6c64e.js.map": "/student-api-filterlist/static/js/main.eed6c64e.js.map",
+    "787.e9c0d292.chunk.js.map": "/student-api-filterlist/static/js/787.e9c0d292.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b86bdf1.css",
+    "static/js/main.eed6c64e.js"
+  ]
+}
