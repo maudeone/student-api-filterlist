@@ -2,7 +2,7 @@
 
 > This is a list generated from a remote API and filtered with JavaScript.
 
-- Website - [Hatchaways API](https://maudeone.github.io/student-profile-4165/)
+- Website - [Hatchaways API](https://maudeone.github.io/student-api-filterlist/)
 
 ---
 
